@@ -4,11 +4,13 @@ I'm Zemmy. My legal name is Angeleene. I go by either names, depending if I feel
 
 I was born and raised in the Philippines :philippines:, I did my MSc at ITMO University in Russia :ru:, and I'm currently geographically based in Israel :israel:.
 
+I'm a graduate of the Data Science Program of the [Israel Tech Challenge](https://itc.tech/). My educational background was in Physics, specifically computational nano-optics and the simulation of optical forces. 
+
 ### :desktop_computer: I’m currently working on...
 
-On my day job, I am a programmer for the [Computational MRI Lab](https://tcml-bme.github.io/) at the [Technion - Israel Institute of Technology](https://technion.ac.il/). Among my main projects include [a human-friendly tool for the annotation of MRI images](https://github.com/TechnionComputationalMRILab/ImageUntangler).
+For my day job, I am a programmer for the [Computational MRI Lab](https://tcml-bme.github.io/) at the [Technion - Israel Institute of Technology](https://technion.ac.il/). Among my main projects include [a human-friendly tool for the annotation of MRI images](https://github.com/TechnionComputationalMRILab/ImageUntangler). 
 
-I'm also a Data Science Fellow of the [Israel Tech Challenge](https://itc.tech/).
+Elsewhere, I play around 3D modelling and animation using 3D scanning and motion capture data, and I like writing little scripts (mostly based around Tasker and Google Apps Script) and tools to get my to-do lists organized. I have a proverbial laundry list of other things I like to dabble with, but those are the main things right now. 
 
 ### :bookmark_tabs: I’m currently learning...
 
