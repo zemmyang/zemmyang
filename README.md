@@ -4,13 +4,13 @@ I'm Zemmy. My legal name is Angeleene. I go by either names, depending if I feel
 
 I'm currently geographically based in Israel :israel:, I was born and raised in the Philippines :philippines:, I did my MSc at ITMO University in Russia :ru:.
 
-I'm a graduate of the Data Science Program of the [Israel Tech Challenge](https://itc.tech/). My educational background was in Physics, specifically computational nano-optics and the simulation of optical forces. 
+I semi-recently completed the Data Science Program of the [Israel Tech Challenge](https://itc.tech/). My educational background was in Physics, specifically computational nano-optics and the simulation of optical forces. 
 
 ### :desktop_computer: I’m currently working on...
 
 For my day job, I am a programmer for the [Computational MRI Lab](https://tcml-bme.github.io/) at the [Technion - Israel Institute of Technology](https://technion.ac.il/). Among my main projects include [a human-friendly tool for the annotation of MRI images](https://github.com/TechnionComputationalMRILab/ImageUntangler). 
 
-Elsewhere, I play around 3D modelling and animation using 3D scanning and motion capture data, and I like writing little scripts (mostly based around Tasker and Google Apps Script) and tools to get my to-do lists organized. I have a proverbial laundry list of other things I like to dabble with, including reverse engineering of video games and reddit moderation, but those are the main things right now. 
+Elsewhere, I play around 3D modelling and animation using 3D scanning and motion capture data, and I like writing little scripts (mostly based around Tasker and Google Apps Script) and tools to get my to-do lists organized. I have a proverbial laundry list of other things I dabble with, including reverse engineering of video games and reddit moderation. 
 
 ### :bookmark_tabs: I’m currently using/learning...
 
@@ -42,9 +42,11 @@ Studying these for the lols:
 
 ### :world_map: How to reach me: 
 
-I'm either **zemmyang** or **vardonir** on most social media websites. The best way to reach me is by sending vardonir a reddit DM (not chat!).
+I'm either **zemmyang** or **vardonir** on most social media websites. Best way to reach me is through Twitter or reddit DM. I'm vardonir#7123 on Discord
 
 <a href="https://twitter.com/zemmyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemmyang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zemmyang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zemmyang/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vardonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vardonir" height="30" width="40" /></a>
 </p>
+
+[I also have a separate GitHub account for my personal projects, but it's a bit barebones at the moment](https://github.com/vardonir)
