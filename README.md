@@ -45,4 +45,4 @@ I'm either **zemmyang** or **vardonir** on most social media websites. Best way 
 <a href="https://stackoverflow.com/users/vardonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vardonir" height="30" width="40" /></a>
 </p>
 
-[I also have a separate GitHub account for my personal projects, but it's a bit barebones at the moment.](https://github.com/vardonir)
+[I also have a separate GitHub account for a different category of my personal projects, but it's a bit barebones at the moment.](https://github.com/vardonir)
