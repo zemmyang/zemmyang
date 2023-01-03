@@ -8,9 +8,9 @@ I semi-recently completed the Data Science Program of the [Israel Tech Challenge
 
 ### :desktop_computer: I’m currently working on...
 
-For my day job, I am a programmer for the [Computational MRI Lab](https://tcml-bme.github.io/) at the [Technion - Israel Institute of Technology](https://technion.ac.il/). Among my main projects include [a human-friendly tool for the annotation of MRI images](https://github.com/TechnionComputationalMRILab/ImageUntangler). I'm also developing an Android App for the [AI in Medicine Lab](https://aim-lab.github.io) - it's used to track vital signs overnight using a BLE device.
+For my day job, I am a programmer for the [Computational MRI Lab](https://tcml-bme.github.io/) at the [Technion - Israel Institute of Technology](https://technion.ac.il/). Among my main projects include [a human-friendly tool for the annotation of MRI images](https://github.com/TechnionComputationalMRILab/ImageUntangler). I'm also developing an Android application (for data collection) + ETL pipeline + visualization tools for the [AI in Medicine Lab](https://aim-lab.github.io) - it's used to track vital signs overnight using BLE devices.
 
-On the side, I study 3D modelling/rendering/animation (mostly derivative works), I like to poke at reverse engineering of video games every now and then (although I'm not very good at it), and I write scripts and such because I'm lazy and I want to automate things. [I have a separate GitHub account for those stuff since it's a different category of personal projects, but it's a bit barebones at the moment.](https://github.com/vardonir)
+I do other things on my spare time - game dev, 3D modelling using programming, a tiny bit of reverse engineering, and I develop several automation tools. I have another GH account for that - it's not that hard to find, but you'll have to actually look for it. ;)
 
 ### :bookmark_tabs: I’m currently using...
 
@@ -31,9 +31,8 @@ I study/use these for an assortment of reasons: <img src="https://cdn.jsdelivr.n
 
 ### :world_map: How to reach me: 
 
-I'm either **zemmyang** or **vardonir** on most social media websites. I'm **vardonir#7123** on Discord and I try to check it every now and then. Or you can email me, just stick @gmail.com on my username.
+I'm **zemmyang** on most social media websites. Or you can email me, just stick @gmail.com on my username.
 
 <a href="https://twitter.com/zemmyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemmyang" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/zemmyang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zemmyang/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vardonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vardonir" height="30" width="40" /></a>
 </p>
