@@ -2,15 +2,13 @@
 
 I'm Zemmy. My legal name is Angeleene. I go by either names, depending if I feel like answering "how did you get Zemmy from Angeleene?"
 
-I'm currently geographically based in Israel :israel:, I was born and raised in the Philippines :philippines:, I did my MSc at ITMO University in Russia :ru:.
-
-I semi-recently completed the Data Science Program of the [Israel Tech Challenge](https://itc.tech/). My educational background was in Physics, specifically computational nano-optics and the simulation of optical forces. 
+I'm currently geographically based in Israel :israel:; born and raised in the Philippines :philippines:.
 
 ### :desktop_computer: I’m currently working on...
 
-For my day job, I am a programmer for the [Computational MRI Lab](https://tcml-bme.github.io/) at the [Technion - Israel Institute of Technology](https://technion.ac.il/). Among my main projects include [a human-friendly tool for the annotation of MRI images](https://github.com/TechnionComputationalMRILab/ImageUntangler). I'm also developing an Android application (for data collection) + ETL pipeline + visualization tools for the [AI in Medicine Lab](https://aim-lab.github.io) - it's used to track vital signs overnight using BLE devices.
+For my day job, I am a programmer for the [Computational MRI Lab](https://tcml-bme.github.io/) at the [Technion - Israel Institute of Technology](https://technion.ac.il/). Among my main projects include [a human-friendly tool for the annotation of MRI images](https://github.com/TechnionComputationalMRILab/ImageUntangler). I'm also developing an Android application for data collection + ETL pipeline + visualization tools for the [AI in Medicine Lab](https://aim-lab.github.io) - it's used to track vital signs overnight using BLE devices.
 
-I do other things on my spare time - game dev, 3D modelling using programming, a tiny bit of reverse engineering, and I develop several automation tools. I have another GH account for that - it's not that hard to find, but you'll have to actually look for it. ;)
+I do other things on my spare time - game dev, 3D modelling using programming, a tiny bit of reverse engineering, and automation tools for extremely specific applications. I have another GH account for that - it's not that hard to find, but you'll have to actually look for it. ;)
 
 ### :bookmark_tabs: I’m currently using...
 
